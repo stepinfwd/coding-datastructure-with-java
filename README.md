@@ -1,2 +1,2 @@
-# coding-datastructure-with-java
-this contains solution for must do coding questions topic wise questions given in GeeksforGeeks
+# coding-datastructure-with-java-linkedlist
+This contains solution for all  must do coding topic wise questions given in GeeksforGeeks
